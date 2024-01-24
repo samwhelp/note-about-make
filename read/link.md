@@ -7,7 +7,7 @@ has_children: true
 # 連結
 
 
-## Bash
+## Make
 
 | Link |
 | ---- |
